@@ -1,0 +1,5 @@
+# ThinkPad S540 UEFI 1.82 Enable advanced menu
+# This patches the advanced menu avaibility in SystemFormBrowserCoreDxe
+# Patch found on https://pastebin.com/TZYnnmY8, analyzed and tested on GPET82WW
+
+32442D09-1D11-4E27-8AAB-90FE6ACB0489 10 P:04320B483CC2E14ABB16A73FADDA475F:778B1D826D24964E8E103467D56AB1BA      
